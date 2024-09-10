@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2773],{4367:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/tech-watch-hub/blog/tags/hola","allTagsPath":"/tech-watch-hub/blog/tags","count":1,"unlisted":false}')}}]);
